@@ -11,4 +11,4 @@ The task is to create a react based application which can demonstrate the tab re
 - Inside the Tabs each Tab should have a `className` of <b>tab</b>.
 - each tab should have an `id` of `TabName`-Tab for eg. for the Home tab id will be 
 <b>Home-tab</b>.
-- for the viewport it should have a `className` <b>viewport</b> and text <b>Pages Go Here</b> .
+- for the viewport it should have a `className` <b>viewport</b> and text <b>Pages Go Here</b>.
